@@ -2,6 +2,11 @@
 
 More than 15 years developing websites and web applications. Although I have worked in different areas, I currently specialize in front-end development in **React**.
 
+Please check out my latest personal projects:
+
+- **Kitchendoro** [Android](https://play.google.com/store/apps/details?id=com.multitimer&hl=en&gl=US) [iOS] -- A multitimer app written in Native Script
+- **Shopping List** [Android] [iOS] -- A shoppint list app with Voice Recognizion written in Native Script
+
 <!--
 **gchumillas/gchumillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
