@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+More than 15 years developing websites and web applications. Although I have worked in different areas, I currently specialize in front-end development in React.
+
 <!--
 **gchumillas/gchumillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
