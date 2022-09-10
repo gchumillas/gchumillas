@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-More than 15 years developing websites and web applications. Although I have worked in different areas, I currently specialize in front-end development in **React**.
+I'm Spanish developer and I've been developing web applications for more than 15 years. Although I've worked in different areas, I currently specialize in frontend development in **React**.
 
 Please check out my latest personal projects:
 
