@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Spanish developer and I've been developing web applications for more than 15 years. Although I worked in different areas, I currently specialize in frontend development in **React**.
+I'm a Spanish developer and I've been developing web applications for more than ten years. Although I worked in different areas, I currently specialize in frontend development in **React**.
 
 ⚡ Checkout my latest personal projects! ⚡ I can't spend much time on them as I have to prioritize my client projects, but I think they represent good examples of **React Native** apps:
 
