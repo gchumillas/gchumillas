@@ -2,7 +2,7 @@
 
 I'm a Spanish developer and I've been developing web applications for more than 15 years. Although I worked in different areas, I currently specialize in frontend development in **React**.
 
-Please check out my latest personal projects:
+Checkout my personal projects:
 
 - **Clockodoro** [ [Android](https://play.google.com/store/apps/details?id=com.retroclock) | [iOS](https://apps.apple.com/app/clockodoro/id6443605878) | [Source Code](https://github.com/gchumillas/clockodoro) ]: A minimalist digital clock made in React native.
 - **Kitchendoro** [ [Android](https://play.google.com/store/apps/details?id=com.multitimer&hl=en&gl=US) | [iOS](https://apps.apple.com/es/app/kitchendoro/id1607064139) | [Source Code](https://github.com/gchumillas/kitchendoro) ] -- A React Native multitimer app
